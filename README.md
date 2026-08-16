@@ -55,3 +55,5 @@ This project focuses on making **deliberate, context-aware decisions** for every
 - **Language**: Python 3.x
 - **Data Manipulation**: Pandas, NumPy
 - **Environment**: Jupyter Notebook
+
+project URL: https://roadmap.sh/projects/cleaning-netflix-dataset
